@@ -8,10 +8,10 @@ import org.springframework.web.bind.annotation.RequestMapping
 import org.springframework.web.bind.annotation.RestController
 
 @SpringBootApplication
-class JokesSpringBootApplication
+class JokesApplication
 
 fun main(args: Array<String>) {
-	runApplication<JokesSpringBootApplication>(*args)
+	runApplication<JokesApplication>(*args)
 }
 
 @JsonIgnoreProperties

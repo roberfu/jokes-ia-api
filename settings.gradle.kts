@@ -1,1 +1,1 @@
-rootProject.name = "jokes-spring-boot"
+rootProject.name = "jokes-ia-api"

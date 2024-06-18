@@ -1,1 +1,1 @@
-# jokes-spring-boot
+# jokes-ia-api
